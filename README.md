@@ -12,4 +12,4 @@ As the internet has become a political tool more and more content is being monit
 
 ## Scrapper
 
-* [youtube-dl](https://gitlab.com/ytdl-org/youtube-dl) - Download videos from youtube.com or other video platforms
+* [youtube-dl](https://gitlab.com/ytdl-org/youtube-dl) - Download videos from youtube.com or other video platforms.
