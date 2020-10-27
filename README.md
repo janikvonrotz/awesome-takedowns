@@ -4,7 +4,7 @@ Awesome list of github takedowns and their alternative source.
 
 **What is this?**
 
-As the internet has become a political tool more and more content is being monitored and removed at will. Often this happens under local jurisdiction and a [github takedown](https://github.com/github/gov-takedowns). Building software happens accross nations and communities. Therefore it requires a global commense and jurisdiction.
+As the internet has become a political tool more and more content is being monitored and removed at will. Often this happens under local jurisdiction and a [github takedown](https://github.com/github/gov-takedowns). Building software happens accross nations and communities. Therefore it requires a global consens and jurisdiction on what content should be removed.
 
 # Contents
 
